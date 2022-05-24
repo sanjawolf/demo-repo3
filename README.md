@@ -4,4 +4,8 @@ Some description!
 
 ## Subheader
 
-Go to YouTube.
+1. Go to YouTube.
+
+2. Open index.html in your browser.
+
+
